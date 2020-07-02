@@ -1,0 +1,13 @@
+Welch two sample t-test
+Shapiro test
+Moving window average
+
+Use Rmd to create presentations using ioslides_presentation
+Use Rmd to create html
+
+Try Jup notebooks, beautiful soup, seaborn and Rmd. 
+Sql lite
+Python dicts
+text mining using tm
+
+PyPI - python package index, analogous to CRAN in R.
